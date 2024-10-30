@@ -9,7 +9,9 @@ Tabbed Navigation Bar
 This project implements a tabbed navigation bar using HTML, CSS, JavaScript. It provides a user-friendly interface for switching between different content sections within a web page.
 
 <br>
-![preview](https://github.com/user-attachments/assets/7b5092b3-af73-4144-9437-75cc8a3b0b70)
+
+### preview
+https://github.com/user-attachments/assets/7b5092b3-af73-4144-9437-75cc8a3b0b70
 
 <br>
 
