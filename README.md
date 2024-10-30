@@ -10,7 +10,7 @@ This project implements a tabbed navigation bar using HTML, CSS, JavaScript. It 
 
 <br>
 
-## preview
+## Preview
 
 
 [https://github.com/user-attachments/assets/7b5092b3-af73-4144-9437-75cc8a3b0b70](https://htmlpreview.github.io/?https://github.com/AliDeli80/Tab-Navigation/blob/master/html/index.html)
