@@ -1,10 +1,10 @@
-## Project Title: 
+## Project Title
 
 Tabbed Navigation Bar
 
 <br>
 
-## Description:
+## Description
 
 This project implements a tabbed navigation bar using HTML, CSS, JavaScript. It provides a user-friendly interface for switching between different content sections within a web page.
 
@@ -17,7 +17,7 @@ This project implements a tabbed navigation bar using HTML, CSS, JavaScript. It 
 
 <br>
 
-## Features:
+## Features
 
 - Multiple Tabs: Supports multiple tabs to organize content.
 - Tab Switching: Enables seamless switching between tabs.
