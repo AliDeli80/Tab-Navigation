@@ -15,18 +15,9 @@ This project implements a tabbed navigation bar using HTML, CSS, JavaScript. It 
 
 [https://github.com/user-attachments/assets/7b5092b3-af73-4144-9437-75cc8a3b0b70](https://htmlpreview.github.io/?https://github.com/AliDeli80/Tab-Navigation/blob/master/html/index.html)
 
-<br>
-
-## Features
-
-- Multiple Tabs: Supports multiple tabs to organize content.
-- Tab Switching: Enables seamless switching between tabs.
-- Active Tab Indication: Highlights the active tab.
-- Customization: Allows for customization of appearance and behavior.
 
 
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 ### Clone the Repository:
@@ -36,8 +27,14 @@ This project implements a tabbed navigation bar using HTML, CSS, JavaScript. It 
   ```
 
 
+## Features
 
-<!-- USAGE EXAMPLES -->
+- Multiple Tabs: Supports multiple tabs to organize content.
+- Tab Switching: Enables seamless switching between tabs.
+- Active Tab Indication: Highlights the active tab.
+- Customization: Allows for customization of appearance and behavior.
+
+
 ## Usage
 
 1. HTML Structure: Create the basic HTML structure with a container for the tabs and content sections.
